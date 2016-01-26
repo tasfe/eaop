@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!-- edited with XMLSpy -->
-<xsd:schema xmlns="https://github.com/tasfe/eaop/tree/master/src/main/resources/com/tasfe/framework/eaop" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:beans="http://www.springframework.org/schema/beans" xmlns:tool="http://www.springframework.org/schema/tool" targetNamespace="https://github.com/tasfe/eaop/tree/master/src/main/resources/com/tasfe/framework/eaop"
+<xsd:schema xmlns="https://github.com/tasfe/eaop" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:beans="http://www.springframework.org/schema/beans" xmlns:tool="http://www.springframework.org/schema/tool" targetNamespace="https://github.com/tasfe/eaop"
 	elementFormDefault="qualified" attributeFormDefault="unqualified">
 	<xsd:import namespace="http://www.springframework.org/schema/beans" schemaLocation="http://www.springframework.org/schema/beans/spring-beans.xsd" />
 	<xsd:import namespace="http://www.springframework.org/schema/tool" schemaLocation="http://www.springframework.org/schema/tool/spring-tool.xsd" />
